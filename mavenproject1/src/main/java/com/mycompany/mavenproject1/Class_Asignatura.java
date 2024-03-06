@@ -14,5 +14,6 @@ public class Class_Asignatura {
     String nom;
     int numExpedient;
     String cognom;
+    int exemple;
     
 }
